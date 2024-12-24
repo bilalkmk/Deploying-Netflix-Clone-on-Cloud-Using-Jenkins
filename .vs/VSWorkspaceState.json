@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Kubernetes",
+    "\\src",
+    "\\src\\lib",
+    "\\src\\pages",
+    "\\src\\providers",
+    "\\src\\routes",
+    "\\src\\theme"
+  ],
+  "SelectedNode": "\\vite.config.ts",
+  "PreviewInSolutionExplorer": false
+}
